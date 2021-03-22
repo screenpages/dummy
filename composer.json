@@ -1,0 +1,12 @@
+{
+    "name": "screenpages/dummy",
+    "description": "Dummy package for Packagist vendor reservation",
+    "type": "metapackage",
+    "authors": [
+        {
+            "name": "Screen Pages",
+            "email": "info@screenpages.com"
+        }
+    ],
+    "require": {}
+}
